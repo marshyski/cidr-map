@@ -13,3 +13,5 @@ if tarfile.is_tarfile(tar):
     tarfile.open(tar).extractall('data')
 else:
     print tar + " is not a tarfile"
+
+os.remove(tar)
