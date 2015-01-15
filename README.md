@@ -1,5 +1,5 @@
 # cidr-map
-CIDR Map using Flask, HighCharts.js and ipdeny.com dataset
+CIDR Map using [Flask](http://flask.pocoo.org), [HighCharts.js](http://www.highcharts.com/) and [ipdeny.com](http://ipdeny.com) all country zone dataset.
 
 Install:
 --------
